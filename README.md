@@ -118,7 +118,7 @@ A Preetham Reddy## Generative AI Developer | LLM Specialist
 
 ---
 
-## 🎯 Focus Areas (2024-2025)
+## 🎯 Focus Areas (2025-2026)
 
 ### 🔴 **Priority 1: Production-Grade LLM Systems**
 - Building scalable LLM applications
@@ -232,7 +232,7 @@ A Preetham Reddy## Generative AI Developer | LLM Specialist
 <div align="center">
 
 ```
-2024-2025 Learning Path:
+2025-2026 Learning Path:
 
  Phase 1: Foundation
  ├─ LLM Architecture & Mechanics
