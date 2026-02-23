@@ -1,95 +1,139 @@
-# Hi, I'm Preetham Reddy 👋
+# 🚀 Preetham Reddy | AI Engineer in Training
 
-**AI Engineer in Training** focused on Generative AI, LLM applications, and prompt engineering.
-I enjoy building practical AI and automation solutions using Python and machine learning.
-
----
-
-## Profile Summary
-
-- BE Information Science student transitioning into AI / ML and GenAI engineering
-- Hands-on experience with Python, Jupyter, and machine learning workflows
-- Building projects around computer vision, automation, and data-driven applications
-- Actively learning how to design, evaluate, and deploy LLM-powered systems
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║   Building the Future with AI, Automation & Machine Learning      ║
+║                     | Bangalore-based Developer |                 ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
 
 ---
 
-## Focus Areas
+## 🎯 Quick Overview
 
+<table>
+  <tr>
+    <td><strong>Role</strong></td>
+    <td>AI Engineer in Training | Software Developer</td>
+  </tr>
+  <tr>
+    <td><strong>Focus</strong></td>
+    <td>Generative AI | LLM Applications | Prompt Engineering</td>
+  </tr>
+  <tr>
+    <td><strong>Current Work</strong></td>
+    <td>Building practical AI solutions & automation workflows</td>
+  </tr>
+  <tr>
+    <td><strong>Location</strong></td>
+    <td>Bangalore, India 🇮🇳</td>
+  </tr>
+</table>
+
+---
+
+## 🎓 About Me
+
+<img align="right" width="200" alt="coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+> **BE Information Science** graduate transitioning into **AI/ML & GenAI Engineering**
+
+🔹 **What I'm Building:** Practical AI and automation solutions using Python and machine learning  
+🔹 **My Expertise:** Python | Data Structures | LLM Applications | Computer Vision  
+🔹 **Currently Learning:** Designing, evaluating, and deploying LLM-powered systems  
+
+---
+
+## 💡 Core Competencies
+
+```yaml
+┌─────────────────────────────────────────────────────────┐
+│  TECHNICAL SKILLS                                       │
+├─────────────────────────────────────────────────────────┤
+│ 🐍 Programming: Python, JavaScript                       │
+│ 🤖 AI/ML: Generative AI, LLM, Prompt Engineering        │
+│ 📊 Data Science: Pandas, Data Preprocessing, Analysis   │
+│ 🧠 Machine Learning: Algorithms, DSA, Deep Learning     │
+│ 🔧 Tools: Jupyter, VS Code, GitHub, n8n, Google Colab  │
+│ 🏗️ Other: Automation, Computer Vision, API Design       │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🌟 Key Focus Areas
+
+### 🎨 AI & Generative Models
 - Generative AI and LLM applications
-- Prompt engineering and evaluation
-- Machine learning and basic deep learning
-- Python scripting and automation
-- Data preprocessing and experimentation in notebooks
+- Prompt engineering and prompt evaluation
+- Building intelligent automation solutions
+
+### 📚 Machine Learning
+- Classical ML algorithms and basic deep learning
+- Data preprocessing and feature engineering
+- Real-world model implementation and deployment
+
+### 🛠️ Development & Automation
+- Python scripting for automation workflows
+- Building data-driven applications
+- Hands-on experience with ML workflows in Jupyter & Google Colab
 
 ---
 
-## Tech Stack
+## 📂 What You'll Find Here
 
-- **Languages:** Python, JavaScript, SQL
-- **AI / ML:** scikit-learn, basic CNN concepts, classical ML algorithms
-- **Tools:** Jupyter Notebook, Git, GitHub
-- **Web / Apps:** HTML, CSS, basic JS for frontend behavior
-
-> As I grow my skills in LLMs and GenAI, this stack will keep expanding with new frameworks and tools.
-
----
-
-## Featured Projects
-
-### 🩺 Skin Disease Detection using ML
-- **Tech:** Python, Jupyter Notebook, Machine Learning
-- **Problem:** Classify skin disease images using ML to support early screening and basic decision support.
-- **What I did:** Data preprocessing, model training, basic experimentation, and evaluation.
-- **Repo:** [skin-disease-detection-build-by-using-ml](https://github.com/preethamofficial/skin-disease-detection-build-by-using-ml)
+| Category | Description |
+|----------|-------------|
+| **AI Projects** | Generative AI applications, LLM experiments & prompt engineering |
+| **ML Models** | Data science projects, algorithm implementations & analysis |
+| **Automation** | Workflow automation, Python scripts & productivity tools |
+| **Learning** | DSA challenges, design patterns & technical documentation |
 
 ---
 
-### 📦 Inventory Management System
-- **Tech:** JavaScript, HTML, CSS
-- **Problem:** Simple inventory tracking for small stores to manage stock and basic operations.
-- **What I did:** Implemented core inventory features (add, update, remove) with a basic UI.
-- **Repo:** [inventory-managment](https://github.com/preethamofficial/inventory-managment)
+## 🚀 Recent Highlights
+
+✅ Hands-on experience with **Python**, **Jupyter**, and ML workflows  
+✅ Building projects in **computer vision**, **automation**, and **data-driven applications**  
+✅ Actively exploring **LLM deployment** and **prompt optimization strategies**  
+✅ Strong foundation in **Data Structures & Algorithms**  
 
 ---
 
-### 🐍 Vault of Code – Python Internship Projects
-- **Tech:** Python, Jupyter Notebook
-- **Problem:** Build mini-projects and utilities as part of a Python-focused internship.
-- **What I did:** Implemented Python scripts and exercises that strengthened core programming and problem-solving.
-- **Repo:** [vaultofcode-python-internship-](https://github.com/preethamofficial/vaultofcode-python-internship-)
+## 📊 GitHub Stats
+
+```
+📈 10+ Public Repositories | 💻 4 Starred Projects
+🔗 Active Learner | 🎯 Building Portfolio Projects
+```
 
 ---
 
-## GitHub Stats
+## 🤝 Let's Connect!
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=preethamofficial&show_icons=true&theme=radical"
-    alt="GitHub Stats"
-    height="160"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=preethamofficial&layout=compact&theme=radical"
-    alt="Top Languages"
-    height="160"
-  />
-</p>
+```python
+preetham = {
+  "email": "available_for_opportunities",
+  "interests": ["AI", "ML", "Automation", "Open Source"],
+  "status": "Open to collaborations & internship opportunities",
+  "learning": "Advanced LLM Applications & Production Deployment"
+}
+
+print("Let's build something amazing together! 🚀")
+```
 
 ---
 
-## Currently Exploring
+<div align="center">
 
-- Prompt reliability, testing, and evaluation strategies
-- RAG (Retrieval-Augmented Generation) workflows and design patterns
-- LLM application design (tools, agents, and orchestration)
-- AI automation patterns using Python and APIs
+### 💭 *"Code is poetry written in logic"*
+
+**Passionate about turning ideas into intelligent solutions**
+
+[🔗 Connect with me](https://github.com/preethamofficial) | [📧 Get in Touch](mailto:)
+
+</div>
 
 ---
 
-## Contact & Links
-
-- LinkedIn: [Preetham Reddy](https://linkedin.com/in/your-profile)
-- Email: preethamofficial336@gmail.com
-
-If you'd like to collaborate on AI, GenAI, or ML projects, feel free to reach out.
+*Last Updated: February 2026* ⏰
