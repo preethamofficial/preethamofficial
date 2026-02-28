@@ -347,6 +347,6 @@ A Preetham Reddy## Generative AI Developer | LLM Specialist
 
 ---
 
-**Last Updated:** February 2026 | **Status:** 🚀 Building Future AI Systems
+**Last Updated:** February 2026 | **Status:** 🚀 Learning Generative AI
 
 </div>
