@@ -149,34 +149,27 @@ A Preetham Reddy## Generative AI Developer | LLM Specialist
 ```
 <div align="center">
 
-### 🎯 EXPERTISE LEVELS
+> 🧠 **Technical Proficiency Overview**
 
-```
-╔════════════════════════════════════════════════════════════════╗
-║                                                                ║
-║  SKILL                      PROFICIENCY          EXPERIENCE   ║
-║  ─────────────────────────────────────────────────────────    ║
-║                                                                ║
-║  🔹 Generative AI            ▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░    40% ║
-║  🔹 Python                   ▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░    70% ║
-║  🔹 MySQL                    ▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░    70% ║
-║  🔹 LLM Integration          ▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░    70% ║
-║  🔹 Prompt Engineering       ▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░    70% ║
-║  🔹 Data Science             ▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░    70% ║
-║  🔹 Machine Learning         ▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░    40% ║
-║  🔹 RAG Systems              ▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░    70% ║
-║  🔹 AI                       ▓▓▓░░░░░░░░░░░░░░░░░░░░░░░    30% ║
-║  🔹 Automation               ▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░    65% ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
-```
+| Skill | Level | Trend |
+|-------|-------|-------|
+| 🔹 **Generative AI** | ⭐⭐⭐⭐ 40% | 📈 Growing |
+| 🔹 **Python** | ⭐⭐⭐⭐⭐⭐⭐ 70% | ⭐ Strong |
+| 🔹 **MySQL** | ⭐⭐⭐⭐⭐⭐⭐ 70% | ⭐ Strong |
+| 🔹 **LLM Integration** | ⭐⭐⭐⭐⭐⭐⭐ 70% | 📈 Advancing |
+| 🔹 **Prompt Engineering** | ⭐⭐⭐⭐⭐⭐⭐ 70% | 🔥 Expert |
+| 🔹 **Data Science** | ⭐⭐⭐⭐⭐⭐⭐ 70% | ⭐ Competent |
+| 🔹 **Machine Learning** | ⭐⭐⭐⭐ 40% | 📚 Learning |
+| 🔹 **RAG Systems** | ⭐⭐⭐⭐⭐⭐⭐ 70% | 🚀 Proficient |
+| 🔹 **AI** | ⭐⭐⭐ 30% | 📖 Foundation |
+| 🔹 **Automation** | ⭐⭐⭐⭐⭐⭐ 65% | 💪 Solid |
 
-**Legend:** ▓ = Proficiency Level | ░ = Growth Area
+---
+
+**Proficiency Scale:**
+- ⭐ = 10% per star | 🔥 = Expert Level | 📈 = Actively Growing | 🚀 = High Priority
 
 </div>
-
-</div>
-
 ---
 
 ## 🚀 Key Projects & Achievements
