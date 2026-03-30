@@ -156,11 +156,11 @@ A Preetham Reddy## Generative AI Developer | LLM Specialist
 | 🔹 **Generative AI** | ⭐⭐⭐⭐ 40% | 📈 Growing |
 | 🔹 **Python** | ⭐⭐⭐⭐⭐⭐⭐ 70% | ⭐ Strong |
 | 🔹 **MySQL** | ⭐⭐⭐⭐⭐⭐⭐ 70% | ⭐ Strong |
-| 🔹 **LLM Integration** | ⭐⭐⭐⭐⭐⭐⭐ 70% | 📈 Advancing |
+| 🔹 **LLM Integration** | ⭐⭐⭐⭐ 40% | 📚 Learning|
 | 🔹 **Prompt Engineering** | ⭐⭐⭐⭐⭐⭐⭐ 70% | 🔥 Expert |
 | 🔹 **Data Science** | ⭐⭐⭐⭐⭐⭐⭐ 70% | ⭐ Competent |
 | 🔹 **Machine Learning** | ⭐⭐⭐⭐ 40% | 📚 Learning |
-| 🔹 **RAG Systems** | ⭐⭐⭐⭐⭐⭐⭐ 70% | 🚀 Proficient |
+| 🔹 **RAG Systems** | ⭐ 10% | 📖 Foundation|
 | 🔹 **AI** | ⭐⭐⭐ 30% | 📖 Foundation |
 | 🔹 **Automation** | ⭐⭐⭐⭐⭐⭐ 65% | 💪 Solid |
 
