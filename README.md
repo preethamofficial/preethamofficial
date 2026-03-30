@@ -147,18 +147,26 @@ A Preetham Reddy## Generative AI Developer | LLM Specialist
 <div align="center">
 
 ```
+<div align="center">
+
+```
 ╔════════════════════════════════════════════════╗
-║         EXPERTISE LEVELS                       ║
+║ EXPERTISE LEVELS                               ║
 ╠════════════════════════════════════════════════╣
-║ Generative AI      ██████████████████░░ 95%   ║
-║ LLM Integration    ██████████████████░░ 90%   ║
-║ Prompt Engineering ██████████████░░░░░░ 80%   ║
-║ Python             ██████████████░░░░░░ 85%   ║
-║ Data Science       ██████████░░░░░░░░░░ 70%   ║
-║ RAG Systems        ██████████░░░░░░░░░░ 70%   ║
-║ Automation         █████████░░░░░░░░░░░ 65%   ║
+║ Generative AI ████████░░░░░░░░░░░░ 40%        ║
+║ Python ███████░░░░░░░░░░░░░░░░░░░░░ 70%       ║
+║ MySQL ███████░░░░░░░░░░░░░░░░░░░░░░ 70%       ║
+║ LLM Integration ███████████░░░░░░░░ 70%       ║
+║ Prompt Engineering ███████░░░░░░░░░░░░░░░░░░ 70%  ║
+║ Data Science ███████░░░░░░░░░░░░░░░░░░░░░░ 70%   ║
+║ Machine Learning ████░░░░░░░░░░░░░░░░░░░░░░ 40% ║
+║ RAG Systems ███████░░░░░░░░░░░░░░░░░░░░░░ 70%   ║
+║ AI ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 30% ║
+║ Automation ██████░░░░░░░░░░░░░░░░░░░░░░░░░░ 65% ║
 ╚════════════════════════════════════════════════╝
 ```
+
+</div>```
 
 </div>
 
@@ -347,6 +355,47 @@ A Preetham Reddy## Generative AI Developer | LLM Specialist
 
 ---
 
-**Last Updated:** February 2026 | **Status:** 🚀 Learning Generative AI
+**Last Updated:** March 2026 | **Status:** 🚀 Learning Generative AI
+
+
+## 🛠️ 20+ AI Tools & Platforms Explored
+
+Throughout my Generative AI journey, I've extensively explored and worked with:
+
+### LLM & API Platforms
+- OpenAI GPT-4, GPT-3.5, GPT-4 Vision
+- Anthropic Claude API
+- Google Gemini API
+- Mistral AI
+- HuggingFace Transformers
+- Meta Llama Models
+- Together AI
+- Perplexity API
+
+### RAG & Vector Databases
+- Pinecone
+- Weaviate
+- Milvus
+- Qdrant
+
+### AI Development Frameworks
+- LangChain
+- LlamaIndex
+- FastAPI
+- n8n (No-code automation)
+- Make.com (Workflow automation)
+
+### AI Generation Tools
+- Midjourney
+- DALL-E 3
+- Stable Diffusion
+- ElevenLabs (Text-to-Speech)
+- Runway (Video AI)
+
+### Additional Platforms
+- Google Colab
+- Jupyter Notebooks
+- Hugging Face Hub
+- Git & GitHub
 
 </div>
